@@ -18,3 +18,7 @@ else if (userChoice == "Tails") {
 else if (userChoice !== computerChoice) {
     alert("Sorry, the coin flip landed on " + computerChoice);
 }
+
+var birthYear = prompt("What year were you born?");
+var birthYear;
+
