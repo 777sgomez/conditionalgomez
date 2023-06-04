@@ -12,3 +12,6 @@ if (userChoice == "Heads") {
 else if (userChoice == computerChoice) {
     alert("You guessed right! The coin flip landed on " + computerChoice);
 }
+else if (userChoice == "Tails") {
+    alert("Sorry, the coin flip landed on " + randomNumber0);
+}
