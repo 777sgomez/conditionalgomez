@@ -6,3 +6,6 @@ console.log(computerChoice)
 
 var userChoice = prompt("Heads or Tails?");
 var userChoice;
+if (userChoice == "Heads") {
+    alert("You guessed right! The coin flip landed on " + randomNumber0);
+}
