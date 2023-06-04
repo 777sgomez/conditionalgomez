@@ -27,4 +27,7 @@ if ((2023 - birthYear) == 21) {
 else if ((2023 - birthYear) > 21) {
     alert("You are old enough to drink in the US");
 }
+else {
+    alert("Sorry, you are not old enough to drink in the US");
+}
 
